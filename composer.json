@@ -9,16 +9,16 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Aislandener\\OpenSslCustom\\": "src/"
+            "Aislandener\\OpenSSLCustom\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Aislandener\\OpenSslCustom\\OpenSSLCustomProvider"
+                "Aislandener\\OpenSSLCustom\\OpenSSLCustomProvider"
             ],
             "aliases": {
-                "OpenSSLCustom": "Aislandener\\OpenSslCustom\\Facades\\OpenSSLCustom"
+                "OpenSSLCustom": "Aislandener\\OpenSSLCustom\\Facades\\OpenSSLCustom"
             }
         }
     },
