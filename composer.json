@@ -12,6 +12,16 @@
             "Aislandener\\OpenSslCustom\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Aislandener\\OpenSslCustom\\OpenSSLCustomProvider"
+            ],
+            "aliases": {
+                "OpenSSLCustom": "Aislandener\\OpenSslCustom\\Facades\\OpenSSLCustom"
+            }
+        }
+    },
     "authors": [
         {
             "name": "Aislan Dener Souza Vicentini",
