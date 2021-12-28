@@ -1,6 +1,6 @@
 <?php
 
-namespace AislanDener\OpenSSLCustom;
+namespace Aislandener\OpenSSLCustom;
 
 use AislanDener\OpenSSLCustom\OpenSSLCustomService;
 use Illuminate\Support\ServiceProvider;
