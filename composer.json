@@ -1,0 +1,22 @@
+{
+    "name": "aislandener/open-ssl-custom",
+    "description": "Custom OpenSSL",
+    "type": "library",
+    "require": {
+        "php": "7.0",
+        "illuminate/support": ">=4.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aislandener\\OpenSslCustom\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aislan Dener Souza Vicentini",
+            "email": "aislandenersouzavicentini@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
