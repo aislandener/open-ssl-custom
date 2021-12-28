@@ -2,7 +2,7 @@
 
 namespace Aislandener\OpenSSLCustom;
 
-use AislanDener\OpenSSLCustom\OpenSSLCustomService;
+use Aislandener\OpenSSLCustom\OpenSSLCustomService;
 use Illuminate\Support\ServiceProvider;
 
 class OpenSSLCustomProvider extends ServiceProvider{

@@ -1,6 +1,6 @@
 <?php
 
-namespace AislanDener\OpenSSLCustom\Facades;
+namespace Aislandener\OpenSSLCustom\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
